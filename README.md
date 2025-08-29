@@ -3,8 +3,6 @@
 I'm a 4nd year statistic student 🎓 in pursuit of the data scientist degree from University of Campinas (UNICAMP). I'm currently delving into programming and studies related to data science,  including R and Python.
 ##
 
-  
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mostami&layout=compact&langs_count=3&theme=github_dark"/>
 
 <img src="https://badgen.net/badge/icon/currently-using/blue?icon=github&label&scale=1.5"/>
 <div>
